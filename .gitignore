@@ -1,0 +1,27 @@
+# Archivos y carpetas generados por el IDE empleado (Eclipse)
+.classpath
+.project
+.settings/
+
+# Archivos tras compilación
+*.class
+target/
+bin/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+
+# La base de datos utilizada en local
+*.db
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración del entorno
+*.env
+
+# Archivos de copia de seguridad
+*.bak
+*.swp
+*~
