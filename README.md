@@ -19,6 +19,6 @@ This project has been developed to work locally, using a local server (Tomcat) a
 
 ## About documentation
 
-:warning: The rest of the documentation is written in Spanish.
+:warning: _**The rest of the documentation is written in Spanish.**_
 
 External documentation can be found in [Doc_JustEat_WebApp.pdf](https://github.com/xFranMe/JustEat-web-app/blob/main/Doc_JustEat_WepApp.pdf) (within this repository). This covers every relevant aspect of this project's features and implementation.
