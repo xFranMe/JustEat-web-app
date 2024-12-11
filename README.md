@@ -11,6 +11,8 @@ This project aims to recreate a CRUD web app inspired in JustEat. Thus, it offer
 * **Reviews**: retaurants can receive reviews from any user, including a grade and a comment. These reviews can't be edited or deleted.
 * **Search**: restaurants can be found by their name, category, location or description.
 
+🔗[Here](https://drive.google.com/file/d/15tcZYkTO3FjX57RC_K_JuJ_k13dyXUQj/view) you can find a video demonstration of the previous functionality. 
+
 ## Scope
 
 This project has been developed to work locally, using a local server (Tomcat) and database (SQLite). 
